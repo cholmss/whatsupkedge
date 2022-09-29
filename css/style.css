@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fira+Sans+Condensed:wght@500&family=Poppins:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap');
+@import url("components/container.css");
+@import url("components/hero-banner.css");
+@import url("components/header.css");
+@import url("components/carousel.css");
+@import url("components/event-card.css");
+@import url("components/newsletter.css");
+
+
+
+body {
+	font-family: 'Poppins', sans-serif;
+	background-image: linear-gradient(to top, #537895 0%, #09203f 100%);
+	color: white;
+}
+
+#footer {
+	color: #09203f;
+	font-size: 12px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 300;
+	margin-bottom: 40px;
+	  display: flex;
+  align-items: center;
+  justify-content: center;
+}

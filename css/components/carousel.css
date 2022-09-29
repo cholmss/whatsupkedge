@@ -1,0 +1,11 @@
+
+.carousel {
+	height: 400px;
+	display: flex;
+	align-items: center;
+}
+
+.carousel h2 {
+	margin: 0 auto;
+	text-align: center;
+}
